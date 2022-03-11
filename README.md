@@ -1,2 +1,2 @@
 # Travel-Map-System
-This
+This is a travel companion application that can be used by end-users to search for resaurants, hotels, and attractions based on their choices of different locations. I achieved this application by implementing a user interface using Material-UI to fetch/filter restaurants, hotels, and attractions of a given place by Internet reviews, prices, types, and pictures by connecting to Google Maps API and Rapid API using JavaScript and React.
